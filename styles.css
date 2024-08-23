@@ -44,7 +44,6 @@
     background-color: #e2f0fb; 
     border-radius: 8px;
 }
-
 .section4 { 
     background-color: #e2f0fb;
     grid-column: 3/4;
@@ -64,7 +63,6 @@
 b{
     font-size: 25px;
 }
-
 .footer { 
     background-image: url('img/ffooter.jpg');
     background-size: cover; 
@@ -121,8 +119,20 @@ b{
 .aside u{
     font-size: 15px;
 }
-
 /* CSS para el layout de contacto */
+.arriba { 
+    background-image: url('img/ffooter.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 11.11vw; 
+    grid-column: 1/5;
+    font-size: 60px;
+    padding: 30px 25px;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+}
 .izquierda {
     grid-column: 1/3; 
     background-color: #e2f0fb;
@@ -130,24 +140,20 @@ b{
     border-radius: 8px;
     text-align: center;
 }
-
 .izquierda p{
     text-align: justify;
 }
-
 .izquierda img {
     max-width: 100%;
     height: auto;
     border-radius: 8px;
 }
-
 .derecha {
     grid-column: 3/5; 
     background-color: #e2f0fb;
     padding: 20px;
     border-radius: 8px;
 }
-
 .form-container {
     max-width: 500px;
     width: 100%;
@@ -156,11 +162,9 @@ b{
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-
 .form-group {
     margin-bottom: 15px;
 }
-
 .form-group label {
     display: block;
     margin-bottom: 5px;
@@ -181,7 +185,6 @@ b{
     border-radius: 4px;
     box-sizing: border-box;
 }
-
 .form-group button {
     padding: 10px 20px;
     cursor: pointer;
@@ -198,7 +201,6 @@ b{
     box-sizing: border-box;
     border-radius: 8px;  
 }
-
 .form-group button.send:hover {
     background-color: green;
 }
