@@ -14,7 +14,6 @@ Además, existe una carpeta `img` que contiene las imágenes utilizadas en la p�
 
 ## Características
 
-- **Diseño Responsivo**: La página está diseñada para adaptarse a diferentes tamaños de pantalla utilizando CSS Grid y Flexbox.
 - **Formulario de Contacto**: Los usuarios pueden enviar sus datos a través de un formulario en la página de contacto.
 - **Links Relacionados**: En la sección lateral de la página principal, se muestran productos relacionados con enlaces a tiendas en línea.
 
